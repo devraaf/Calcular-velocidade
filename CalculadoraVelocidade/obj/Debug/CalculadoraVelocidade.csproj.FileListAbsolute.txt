@@ -1,0 +1,16 @@
+C:\Users\Rafinha\Documents\SharpDevelop Projects\CalculadoraVelocidade\CalculadoraVelocidade\obj\Debug\CalculadoraVelocidade.csprojResolveAssemblyReference.cache
+C:\Users\Rafinha\Documents\SharpDevelop Projects\CalculadoraVelocidade\CalculadoraVelocidade\obj\Debug\CalculadoraVelocidade.MainForm.resources
+C:\Users\Rafinha\Documents\SharpDevelop Projects\CalculadoraVelocidade\CalculadoraVelocidade\obj\Debug\CalculadoraVelocidade.csproj.GenerateResource.Cache
+C:\Users\Rafinha\Documents\SharpDevelop Projects\CalculadoraVelocidade\CalculadoraVelocidade\bin\Debug\CalculadoraVelocidade.exe.config
+C:\Users\Rafinha\Documents\SharpDevelop Projects\CalculadoraVelocidade\CalculadoraVelocidade\bin\Debug\CalculadoraVelocidade.exe
+C:\Users\Rafinha\Documents\SharpDevelop Projects\CalculadoraVelocidade\CalculadoraVelocidade\bin\Debug\CalculadoraVelocidade.pdb
+C:\Users\Rafinha\Documents\SharpDevelop Projects\CalculadoraVelocidade\CalculadoraVelocidade\obj\Debug\CalculadoraVelocidade.exe
+C:\Users\Rafinha\Documents\SharpDevelop Projects\CalculadoraVelocidade\CalculadoraVelocidade\obj\Debug\CalculadoraVelocidade.pdb
+C:\Users\Rafa\Documents\SharpDevelop Projects\CalculadoraVelocidade\CalculadoraVelocidade\bin\Debug\CalculadoraVelocidade.exe.config
+C:\Users\Rafa\Documents\SharpDevelop Projects\CalculadoraVelocidade\CalculadoraVelocidade\bin\Debug\CalculadoraVelocidade.exe
+C:\Users\Rafa\Documents\SharpDevelop Projects\CalculadoraVelocidade\CalculadoraVelocidade\bin\Debug\CalculadoraVelocidade.pdb
+C:\Users\Rafa\Documents\SharpDevelop Projects\CalculadoraVelocidade\CalculadoraVelocidade\obj\Debug\CalculadoraVelocidade.csprojResolveAssemblyReference.cache
+C:\Users\Rafa\Documents\SharpDevelop Projects\CalculadoraVelocidade\CalculadoraVelocidade\obj\Debug\CalculadoraVelocidade.MainForm.resources
+C:\Users\Rafa\Documents\SharpDevelop Projects\CalculadoraVelocidade\CalculadoraVelocidade\obj\Debug\CalculadoraVelocidade.csproj.GenerateResource.Cache
+C:\Users\Rafa\Documents\SharpDevelop Projects\CalculadoraVelocidade\CalculadoraVelocidade\obj\Debug\CalculadoraVelocidade.exe
+C:\Users\Rafa\Documents\SharpDevelop Projects\CalculadoraVelocidade\CalculadoraVelocidade\obj\Debug\CalculadoraVelocidade.pdb
